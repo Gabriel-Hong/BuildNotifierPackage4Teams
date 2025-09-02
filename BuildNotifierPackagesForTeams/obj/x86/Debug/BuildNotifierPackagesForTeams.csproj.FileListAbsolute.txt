@@ -1,0 +1,15 @@
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\BuildNotifierPackagesForTeams.csproj.AssemblyReference.cache
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\_EmptyResource.resources
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\BuildNotifierPackagesForTeams.csproj.GenerateResource.cache
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\BuildNotifierPackagesForTeams_MarkupCompile.cache
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\UI\ConfigurationDialog.baml
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\UI\ConfigurationDialog.g.cs
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\BuildNotifierPackagesForTeams.g.resources
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\Menus.cto
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\VSCT.read.1.tlog
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\VSCT.write.1.tlog
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\resources.json
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\ctoFiles.json
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\_EmptyResource.resources.original
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\mergeCto.cache
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\obj\x86\Debug\BuildNotifierPackagesForTeams.csproj.CoreCompileInputs.cache

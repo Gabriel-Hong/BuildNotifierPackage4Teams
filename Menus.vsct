@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+
+  <Commands package="guidBuildNotifierPackagesForTeamsPackage">
+    <Groups>
+      <Group guid="guidBuildNotifierPackagesForTeamsPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>
+      </Group>
+    </Groups>
+
+    <Buttons>
+      <Button guid="guidBuildNotifierPackagesForTeamsPackageCmdSet" id="ConfigureTeamsCommandId" priority="0x0100" type="Button">
+        <Parent guid="guidBuildNotifierPackagesForTeamsPackageCmdSet" id="MyMenuGroup" />
+        <Strings>
+          <ButtonText>Teams Build Notifier Settings</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="guidBuildNotifierPackagesForTeamsPackage" value="{60f2a757-3a27-47ff-91c7-08137757d977}" />
+    
+    <GuidSymbol name="guidBuildNotifierPackagesForTeamsPackageCmdSet" value="{8c2b3c3b-69d4-462e-ac34-3b27e4b2a5c9}">
+      <IDSymbol name="MyMenuGroup" value="0x1020" />
+      <IDSymbol name="ConfigureTeamsCommandId" value="0x0100" />
+    </GuidSymbol>
+  </Symbols>
+</CommandTable>

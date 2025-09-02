@@ -1,0 +1,24 @@
+빌드 시작: 2025-09-01 오후 3:10:31
+로깅의 세부 정보 표시가 Detailed(으)로 설정되었습니다.프로세스 = "C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.exe"
+MSBuild 실행 파일 경로 = "C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.exe"
+명령줄 인수 = ""C:\Program Files\Microsoft Visual Studio\2022\Professional\\MSBuild\Current\Bin\amd64\MSBuild.exe" BuildNotifierPackagesForTeams.csproj /p:Configuration=Debug /flp:logfile=build.log"
+현재 디렉터리 = "C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams"
+MSBuild 버전 = "17.14.19+164abd434"
+Windows 레지스트리 키 LongPathsEnabled에 따라 LongPaths 기능이 사용 안 함입니다.
+Windows 레지스트리 키 VerifiedAndReputablePolicyState에 따른 SAC 상태 = 0: 꺼짐.
+자동 지시 파일 "C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.rsp"에서 일부 명령줄 스위치를 읽어왔습니다. 이 파일을 사용하지 않도록 설정하려면 "-noAutoResponse" 스위치를 사용하세요.
+
+1 노드의 "C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams.csproj" 프로젝트(기본 대상)입니다.
+C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams.csproj(66,3): error MSB4067: <ItemGroup> 요소 아래의 <#text> 요소를 인식할 수 없습니다.
+"C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams.csproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+
+빌드하지 못했습니다.
+
+"C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams.csproj"(기본 대상)(1)->
+  C:\Users\hjm0830\source\repos\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams\BuildNotifierPackagesForTeams.csproj(66,3): error MSB4067: <ItemGroup> 요소 아래의 <#text> 요소를 인식할 수 없습니다.
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.20

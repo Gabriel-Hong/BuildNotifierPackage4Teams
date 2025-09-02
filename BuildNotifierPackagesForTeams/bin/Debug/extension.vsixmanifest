@@ -1,0 +1,32 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="BuildNotifierPackagesForTeams.fa2bcf30-efd6-4030-8d13-ae82b80a0193" Version="1.0.0" Language="en-US" Publisher="Ringo Hong" />
+    <DisplayName>Teams Build Notifier</DisplayName>
+    <Description xml:space="preserve">Visual Studio extension that automatically sends build notifications to Microsoft Teams channels. Get instant notifications about successful and failed builds directly in your Teams workspace.</Description>
+    <ReleaseNotes>Initial release with core build notification features.</ReleaseNotes>
+    <Icon>VStoTeamsIcon.png</Icon>
+    <PreviewImage>VStoTeamsIcon.png</PreviewImage>
+    <Tags>Teams, Build, Notification, CI/CD, Microsoft Teams, Visual Studio</Tags>
+    <Preview>true</Preview>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Enterprise" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.7.2,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="BuildNotifierPackagesForTeams.pkgdef" />
+  </Assets>
+</PackageManifest>
